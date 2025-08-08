@@ -55,7 +55,7 @@ Built with:
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/ish-war/AI-Job-Recommendation.git
-cd job-recommendation-system
+cd AI-Job-Recommendation
 ```
 ### 2️⃣ Create and activate virtual environment
 ```bash
@@ -81,8 +81,8 @@ TAVILY_API_KEY = your_tavily_api_key_here
 ### ▶️ Running the Application
 
 ```bash
-streamlit run ui/app.py       # Run with Streamlit UI
-python main.py     # Run via CLI (for testing)
+streamlit run ui/app.py      # Run with Streamlit UI
+python main.py               # Run via CLI (for testing)
 ```
 
 ## 📥 Usage
