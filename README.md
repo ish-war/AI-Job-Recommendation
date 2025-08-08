@@ -23,7 +23,7 @@ Built with:
 
 ## 🛠️ Project Structure
 
-<img width="2840" height="856" alt="jobrecom mermaid" src="https://github.com/user-attachments/assets/720b9328-a219-4a9f-9618-8c17e4486395" />
+<img width="1126" height="3840" alt="jobrecom mermaid" src="https://github.com/user-attachments/assets/5c2476b8-f73d-4f61-8789-c735f3594c07" />
 
 
 ## Workflow
